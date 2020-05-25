@@ -5,6 +5,6 @@ public class FirstTest {
 
     @Test
     public void testShouldPass(){
-        Assert.assertFalse(false);
+        Assert.assertTrue(false);
     }
 }
