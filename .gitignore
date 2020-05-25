@@ -1,0 +1,4 @@
+target/maven-archiver/
+	target/maven-project-1.0-SNAPSHOT.jar
+	target/maven-status/
+	target/surefire-reports/
